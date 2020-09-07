@@ -5,7 +5,7 @@
 title: ""
 ---
 
-## Welcome to ecopc!
+# Welcome to ecopc!
 
 Many people often buy new 💻laptops. Their 🔋batteries degrade, the hardware is rarely ⬆upgradeable, the build quality is often low. This is 💰expensive and not very sustainable. On this little website we aim to provide an alternative: **Building your own upgradeable PC!** Sounds scary? Don't worry, we'll help 😉
 
