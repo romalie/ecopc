@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CPU
+nav: true
 ---
 
 # **C**entral **P**rocessing **U**nit
