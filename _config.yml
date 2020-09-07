@@ -22,7 +22,7 @@ title: ecopc
 email: romalie.ecopc@gmail.com
 description: Website about building a custom, small and upgradeable PC as an ecologically friendly alternative to regularly buying new laptops.
 baseurl: "/ecopc" # the subpath of your site, e.g. /blog
-url: "https://romalie.github.io/ecopc" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://romalie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  romalie
 
 # Build settings
