@@ -17,5 +17,3 @@ Many people often buy new 💻laptops. Their 🔋batteries degrade, the hardware
 | [Motherboard](pages/mb) | Foundation of all computers  | 64                                                  |
 | [RAM](pages/ram)        | The real "Desktop"           | 8                                                   |
 | [Case](pages/case)      | Pappkarton                   | Oberübermegasuperduperhülle für alle Computersachen |
-
-test
